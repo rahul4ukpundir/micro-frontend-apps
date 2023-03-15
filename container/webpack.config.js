@@ -17,5 +17,6 @@ module.exports = {
         new htmlWebPackPlugin({
             template: "./public/index.html"
         })
-    ]
+    ],
+ 
 }
